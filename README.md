@@ -1,0 +1,3 @@
+# llm.cu 
+
+working on it...............
